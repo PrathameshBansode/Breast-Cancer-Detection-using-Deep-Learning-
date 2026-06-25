@@ -21,3 +21,13 @@ Flask
 HTML
 CSS
 JavaScript
+
+
+Breast-cancer-Detection/
+│── static/               # CSS, JavaScript, Images
+│── templates/            # HTML Templates
+│── model/                # Trained Model
+│── uploads/              # Uploaded Images
+│── app.py                # Flask Application
+│── requirements.txt      # Dependencies
+│── README.md
